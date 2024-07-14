@@ -21,3 +21,4 @@ I am an enthusiastic and highly motivated aspiring developer with a strong found
 - **Methodologies:** Agile, Scrum
 - **Languages:** English (B1+), Russian (native)
 - **Soft Skills:** Teamwork, Problem-Solving, Time Management 
+
